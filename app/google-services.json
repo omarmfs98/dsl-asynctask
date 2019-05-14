@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773096701340",
+    "firebase_url": "https://dsl-app.firebaseio.com",
+    "project_id": "dsl-app",
+    "storage_bucket": "dsl-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773096701340:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773096701340-i9fm2dklj8dabjrbhj3l2blc0hcepqnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "b23fd26e238cf311683fdb075aaa088b74e4f743"
+          }
+        },
+        {
+          "client_id": "773096701340-2f0rdad3e0j0875mv11pqdejmjbqpfgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqaVUzh5QHc8cG_xfePzO4u1yAQ2aQqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773096701340-2f0rdad3e0j0875mv11pqdejmjbqpfgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

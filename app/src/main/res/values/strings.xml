@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">1ra Clase de DSL</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="button_send">INGRESAR</string>
+    <string name="title_auth">Iniciar sesión</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="valor1">Valor 1</string>
+    <string name="valor2">Valor 2</string>
+    <string name="google_app_id" translatable="false">1:773096701340:android:13c3c6a65bcbec53</string>
+</resources>
